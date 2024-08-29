@@ -4,7 +4,7 @@
 
 The purpose of this project is to understand customer sentiments towards Beats by Dre products by analyzing reviews from various sources. This understanding would help Beats shape future strategies and product developments, ensuring they meet customer expectations and address any concerns effectively.
 
-##Key Objectives
+## Key Objectives
 
 **Data Collection**: Using Python to mine customer reviews from Amazon and other review websites.
   
